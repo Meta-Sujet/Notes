@@ -1,0 +1,1 @@
+Stateless widgets receive arguments from their parent widget, which they store in [`final`](https://dart.dev/guides/language/language-tour#final-and-const) member variables. When a widget is asked to [`build()`](https://api.flutter.dev/flutter/widgets/StatelessWidget/build.html), it uses these stored values to derive new arguments for the widgets it creates.

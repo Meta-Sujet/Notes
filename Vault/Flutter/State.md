@@ -1,0 +1,1 @@
+State is Data/Information used by your app
