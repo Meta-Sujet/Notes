@@ -36,12 +36,18 @@ Text Input Environment            Text Input Interface
 ~         Home - directory 
 ```
 
+- customize zsh: 
+code ~/.zshrc
+code ~/.p10k.zsh
+p10k configure
+
 - pwd - print working directory
 - ls - list items
 - ls -a  - show hidden fails
 to create hidden files in folders use dot before file name:   .index.html
 command + shift + .  - show/hide hidden files in folder
 - ls -l  -(L) more info about files
+- ls | grep file/foldername
 - clear
 - command + k  -clear code
 - cd  -change directory
@@ -88,3 +94,5 @@ command + shift + .  - show/hide hidden files in folder
 - say -v "?"
 - say -v Milena hello
 - du -hs folder - folder size
+- unzip filename
+- flutter create foldername

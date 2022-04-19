@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Todo.md",
+            "file": "Git-Github.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ListView",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Git-Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "34d522cdc4b23eb5",
   "lastOpenFiles": [
+    "Git-Github.md",
+    "Shell (zsh).md",
     "Todo.md",
+    "Flutter/Switch().md",
+    "Dart/16-Switch statement - enumerated type.md",
+    "shortcuts.md",
     "Quotes.md",
     "final vs const.md",
-    "shortcuts.md",
-    "Shell (zsh).md",
     "Flutter/LayoutBuilder.md",
-    "Flutter/Disable portrait-landscape Mode.md",
-    "Flutter/MediaQuery.md",
-    "Flutter/Switch().md",
-    "Today Learned.md"
+    "Flutter/Disable portrait-landscape Mode.md"
   ]
 }

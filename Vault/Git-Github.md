@@ -1,0 +1,34 @@
+- git --version
+- git config --global user.name ...
+- git config --global user.email ...
+- git config user.name <--check
+- git init
+- git status
+- git add filename <-- add in staging
+- git add . <-- add all
+- git rm --cached filename <--remove from staging
+- git restore filename <-- მაგალითად შეიცვალა ფაილი, და გვინდა გაუქმება ცვლილების
+- git restore --staged filename <-- unstage
+- git commit -m 'changed something'
+- git log
+- git log --oneline
+- git checkout #commitID
+- git checkout master
+- git revert #commitID
+	press A key to add extra comment
+	press Esc 
+	press :wq
+- git reset --hard #commitID 
+- git branch feature-1
+- git branch -a
+- git checkout feature-1
+- git branch -d feature-1 <-- deletes branch if it's merged
+- git branch -D feature-1 <-- deletes if not merged
+- git checkout -b feature-2 <-- create & checkout Quick way
+- git merge feature-1 <-- from master brench
+- git push http://....... master
+- git remote add origin http://....
+- git push origin master
+- git clone https://... <-- from Github
+- git remote -v
+- git pull origin master
